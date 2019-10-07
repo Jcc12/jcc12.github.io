@@ -1,0 +1,31 @@
+{
+  "name": "jcc12.github.io",
+  "version": "1.0.0",
+  "description": "personal website 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcc12/jcc12.github.io.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "front-end",
+    "web"
+  ],
+  "author": "Jcc12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcc12/jcc12.github.io/issues"
+  },
+  "homepage": "https://github.com/jcc12/jcc12.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "mdbootstrap": "^4.8.10",
+    "normalize.css": "^8.0.1",
+    "startbootstrap-agency": "^5.2.2"
+  }
+}
